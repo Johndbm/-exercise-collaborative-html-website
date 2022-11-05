@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/002a92c5-a49c-47cf-a7e8-d5cd5c57f2ab/deploy-status)](https://app.netlify.com/sites/team3/deploys)
 # Making a website as a team (Git collaboration)
 
 Practice your skills in GIT while developing a typical website.
